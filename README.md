@@ -5,14 +5,14 @@ Mi objetivo es aprender dia a dia nuevos desafios y conocimientos, tanto de mane
 Actualmente me encuentro estudiando la carrera de Ingenieria Electronica en la Universidad de Buenos Aires
 
 #### :computer: Lenguajes y herramientas:
-* ![alt text][icono1] HTML
-* ![alt text][icono2] CSS
-* ![alt text][icono3] JavaScript
-* ![alt text][icono4] Bootstrap
-* ![alt text][icono5] Git
-* ![alt text][icono6] GitHub
-* ![alt text][icono7] Python
-* ![alt text][icono8] Arduino
+* ![alt text][icono1] _HTML_
+* ![alt text][icono2] _CSS_
+* ![alt text][icono3] _JavaScript_
+* ![alt text][icono4] _Bootstrap_
+* ![alt text][icono5] _Git_
+* ![alt text][icono6] _GitHub_
+* ![alt text][icono7] _Python_
+* ![alt text][icono8] _Arduino_
 
 [icono1]:https://raw.githubusercontent.com/Agas98/Agas98/master/img/html.ico "HTML"
 [icono2]:https://raw.githubusercontent.com/Agas98/Agas98/master/img/css.ico "CSS"
