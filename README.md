@@ -22,7 +22,7 @@ Actualmente me encuentro estudiando la carrera de Ingenieria Electronica en la U
 [icono5]:https://raw.githubusercontent.com/Agas98/Agas98/master/img/git.ico "GIT"
 [icono6]:https://raw.githubusercontent.com/Agas98/Agas98/master/img/github.ico "GitHub"
 [icono7]:https://raw.githubusercontent.com/Agas98/Agas98/master/img/python.ico "Python"
-[icono8]:https://raw.githubusercontent.com/Agas98/Agas98/master/img/arduino.ico "Arduino"
+[icono8]:https://github.com/Agas98/Agas98/blob/master/img/arduino.ico "Arduino"
 
 
 
