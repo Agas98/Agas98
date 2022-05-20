@@ -6,11 +6,24 @@ Mi objetivo es aprender dia a dia nuevos desafios y conocimientos, tanto de mane
 Actualmente me encuentro estudiando la carrera de Ingenieria Electronica en la Universidad de Buenos Aires
 
 #### :computer: Lenguajes y herramientas:
-* HTML
-* CSS
-* ![alt text](https://camo.githubusercontent.com/cf1a0ef083a2372d7f66b4691d5d25bfd8c098f42871e8da90edb1f32ed187c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074)
-* Python
-* Arduino
+* ![alt text][icono1]
+* ![alt text][icono2]
+* ![alt text][icono3]
+* ![alt text][icono4]
+* ![alt text][icono5]
+* ![alt text][icono6]
+* ![alt text][icono7]
+* ![alt text][icono8]
+
+[icono1]:https://raw.githubusercontent.com/Agas98/Agas98/master/img/html.ico "HTML"
+[icono2]:https://raw.githubusercontent.com/Agas98/Agas98/master/img/css.ico "CSS"
+[icono3]:https://raw.githubusercontent.com/Agas98/Agas98/master/img/js.ico "JavaScript"
+[icono4]:https://raw.githubusercontent.com/Agas98/Agas98/master/img/bootstrap.ico "Bootstrap"
+[icono5]:https://raw.githubusercontent.com/Agas98/Agas98/master/img/git.ico "GIT"
+[icono6]:https://raw.githubusercontent.com/Agas98/Agas98/master/img/github.ico "GitHub"
+[icono7]:https://raw.githubusercontent.com/Agas98/Agas98/master/img/python.ico "Python"
+[icono8]:https://raw.githubusercontent.com/Agas98/Agas98/master/img/arduino.ico "Arduino"
+
 
 
 ##### Contactame por estos medios:
