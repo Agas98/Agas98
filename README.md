@@ -15,7 +15,7 @@ Mi objetivo es aprender dia a dia nuevos desafios y conocimientos, tanto de mane
 Actualmente me encuentro estudiando la carrera de Ingenieria Electronica en la Universidad de Buenos Aires
 
 ### Atributos mas destacados:
-*HTML
-*CSS
-*JavaScript
-*Python
+* HTML
+* CSS
+* JavaScript
+* Python
