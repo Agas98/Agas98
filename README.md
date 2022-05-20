@@ -7,3 +7,7 @@
 [logo1]:https://raw.githubusercontent.com/Agas98/Agas98/master/img/linkedin.ico "Linkedin"
 [logo2]:https://raw.githubusercontent.com/Agas98/Agas98/master/img/whatsapp.ico "WhatsApp"
 [logo3]:https://raw.githubusercontent.com/Agas98/Agas98/master/img/gmail.ico "Gmail"
+
+#### Soy un Tecnico Electronico con orientacion a las Telecomunicaciones
+Mi objetivo es aprender dia a dia nuevos desafios y conocimientos, tanto de manera personal como laboralmente.
+Actualmente me encuentro estudiando la carrera de Ingenieria Electronica en la Universidad de Buenos Aires
